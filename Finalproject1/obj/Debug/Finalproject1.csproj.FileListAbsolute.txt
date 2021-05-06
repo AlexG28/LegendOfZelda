@@ -1,0 +1,24 @@
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\bin\Debug\Finalproject1.exe.config
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\bin\Debug\Finalproject1.exe
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\bin\Debug\Finalproject1.pdb
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.csprojResolveAssemblyReference.cache
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form1.resources
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Properties.Resources.resources
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.csproj.GenerateResource.Cache
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.exe
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.pdb
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form2.resources
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form3.resources
+E:\C# programs (school)\projects\programming project 3 (FINAL)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form4.resources
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\bin\Debug\Finalproject1.exe.config
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\bin\Debug\Finalproject1.exe
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\bin\Debug\Finalproject1.pdb
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.csprojResolveAssemblyReference.cache
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form1.resources
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form2.resources
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form3.resources
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Form4.resources
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.Properties.Resources.resources
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.csproj.GenerateResource.Cache
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.exe
+D:\Grade 10 Semester 2\computer science\programming project 3 (final)\program\Finalproject1\Finalproject1\obj\Debug\Finalproject1.pdb
